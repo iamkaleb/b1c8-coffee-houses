@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+section {
+    border: dashed black 1px;
+    flex-basis: 31%;
+    padding: 3px;
+}
